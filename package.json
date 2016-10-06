@@ -1,0 +1,16 @@
+{
+  "name": "fullstackweb",
+  "version": "1.0.0",
+  "description": "a full stack web example",
+  "main": "server_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server_3"
+  },
+  "author": "sonu jose",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
