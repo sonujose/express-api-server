@@ -6,6 +6,7 @@ It is a sample project which explains the ways in which express can be used. Thi
 You must have node and npm installed (via brew install node or NodeJS.org);
 # Getting Started
 
-git clone https://github.com/sonujose/express-sample
-npm install
-npm start
+ git clone https://github.com/sonujose/express-sample
+
+ * npm install
+ * npm start
